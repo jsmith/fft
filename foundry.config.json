@@ -1,0 +1,11 @@
+{
+  "foundryUrl": "https://<SUBDOMAIN>.palantirfoundry.com",
+  "site": {
+    "application": "ri.third-party-applications.main.application.4b72cac2-d69d-4a9a-8426-77c3ddc2baff",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    }
+  }
+}
